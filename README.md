@@ -1,7 +1,7 @@
 # Portfolio
 Central portfolio linking governance and operations work.
 
-# Gregg Galvez — Work Portfolio
+# Gregg Galvez —
 
 This repository presents selected work samples demonstrating how I approach problems, make decisions, and deliver finished artifacts without direct supervision.
 
